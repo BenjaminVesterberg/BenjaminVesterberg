@@ -2,7 +2,7 @@
 
 
 ## Om mig
-Jag studerar just nu webbutveckling på Miun och lär mif för fullt om github
+Jag studerar just nu webbutveckling på Miun och lär mig för fullt om github
 
 
 ## Kontakt
